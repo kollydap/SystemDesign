@@ -1,0 +1,7 @@
+C:\Users\Kollydap\source\repos\Duck\Duck\bin\Debug\Duck.exe.config
+C:\Users\Kollydap\source\repos\Duck\Duck\bin\Debug\Duck.exe
+C:\Users\Kollydap\source\repos\Duck\Duck\bin\Debug\Duck.pdb
+C:\Users\Kollydap\source\repos\Duck\Duck\obj\Debug\Duck.csproj.AssemblyReference.cache
+C:\Users\Kollydap\source\repos\Duck\Duck\obj\Debug\Duck.csproj.CoreCompileInputs.cache
+C:\Users\Kollydap\source\repos\Duck\Duck\obj\Debug\Duck.exe
+C:\Users\Kollydap\source\repos\Duck\Duck\obj\Debug\Duck.pdb
